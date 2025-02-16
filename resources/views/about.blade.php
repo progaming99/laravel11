@@ -7,6 +7,6 @@
     <title>About</title>
 </head>
 <body>
-    ini halaman about
+    ini halaman aboutb1
 </body>
 </html>
