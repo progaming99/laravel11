@@ -19,3 +19,4 @@
         </article>
     @endforeach
 </x-layout>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos adipisci reiciendis in ex nobis odio, odit, molestias commodi debitis neque nesciunt? Veritatis nam vitae, atque voluptatem iusto sunt exercitationem magni.
